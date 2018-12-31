@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu             xmlns:app="http://schemas.android.com/apk/res-auto"
+                  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/facts"
+            android:icon="@drawable/ic_wallet_icon_13_256"
+            android:title="My Wallet" />
+
+    <item
+            android:id="@+id/factoftheday"
+            android:icon="@drawable/insight"
+            android:title="Insight" />
+
+    <item
+            android:id="@+id/category"
+            android:icon="@drawable/tool"
+            android:title="Tool" />
+
+
+</menu>
