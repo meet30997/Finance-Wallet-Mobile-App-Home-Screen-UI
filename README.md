@@ -2,7 +2,7 @@
 Want to start developing finance or wallet application? you can choose this design for yout first screen.<br><br>
 <img src="https://drive.google.com/uc?id=1QcEXcJnkVe7zLGqwU_eMBsnsDn3rmMcG"></img>
 
-<br><br>License
+<br><br>License<br>
 Copyright 2018 Meet Prajapati
 
 Licensed under the Apache License, Version 2.0 (the "License");
